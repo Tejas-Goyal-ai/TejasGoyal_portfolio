@@ -81,7 +81,7 @@ Currently focused on building scalable AI products, agentic workflows, and autom
 
 ## 🚀 Featured Projects
 
-![LinkedIn Dashboard](/images/RAG1.png) ![LinkedIn Dashboard](/images/RAG2.png)
+![RAG Project](/images/RAG%201.png) ![RAG Project](/images/RAG%202.png)
 ### 📄 RAG-Based PDF Chatbot
 An intelligent chatbot that allows users to interact with PDF documents using natural language.
 
@@ -96,7 +96,7 @@ Python • LangChain • ChromaDB • Cohere • Streamlit
 
 ---
 
-![LinkedIn Dashboard](/images/AI%20Market%201.png) ![LinkedIn Dashboard](/images/AI%20Market%202.png)
+![AI automation](/images/AI%20Market%201.png) ![AI automation](/images/AI%20Market%202.png)
 ### 📈 AI Stock Market Signal Automation
 An AI-powered automation workflow for generating real-time stock trading signals.
 
