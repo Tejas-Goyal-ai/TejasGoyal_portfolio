@@ -1,4 +1,4 @@
-# Hi there, I'm Tejas Goyal 👋
+# Hi there, I'm Tejas👋
 
 ### Generative AI Developer | AI Automation Builder 
 
@@ -136,7 +136,8 @@ An AI-powered automation workflow for generating real-time stock trading signals
 ## 🌐 Connect With Me
 
 📧 **Email:** tejasgoyal003@gmail.com  
-💼 **LinkedIn:** [linkedin.com/tejas-goyal](https://www.linkedin.com/in/tejas-goyal-ai/)
+💼 **LinkedIn:** [linkedin.com/tejas-goyal](https://www.linkedin.com/in/tejas-goyal-ai/)   
+
 💻 **GitHub:** [github.com/tejasgoyal](https://github.com/Tejas-Goyal-ai)
 
 ---
