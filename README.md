@@ -8,6 +8,10 @@ With a background in Full Stack Development and hands-on experience in AI engine
 
 Currently focused on building scalable AI products, agentic workflows, and automation systems that deliver real impact.
 
+## 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](/TejasGoyal_portfolio/assets/Tejas%20Resume.pdf)
+
 ---
 
 ## 🚀 About Me
@@ -56,7 +60,7 @@ Currently focused on building scalable AI products, agentic workflows, and autom
 
 ## 💼 Experience
 
-### Generative AI Trainee
+### - Generative AI Trainee
 **QuantumCrafter Studio Pvt. Ltd.**  
 *Sept 2025 – Feb 2026*
 
@@ -68,7 +72,7 @@ Currently focused on building scalable AI products, agentic workflows, and autom
 
 ---
 
-### Full Stack Developer Trainee
+### - Full Stack Developer Trainee
 **SkillStone (Grazitti Interactive)**  
 *Jan 2025 – May 2025*
 
@@ -81,7 +85,7 @@ Currently focused on building scalable AI products, agentic workflows, and autom
 
 ## 🚀 Featured Projects
 
-### 📄 RAG-Based PDF Chatbot
+### - 📄 RAG-Based PDF Chatbot
 ![RAG Project](/TejasGoyal_portfolio/images/RAG%201.png) ![RAG Project](/TejasGoyal_portfolio/images/RAG%202.png)
 
 An intelligent chatbot that allows users to interact with PDF documents using natural language.
@@ -97,7 +101,7 @@ An intelligent chatbot that allows users to interact with PDF documents using na
 
 ---
 
-### 📈 AI Stock Market Signal Automation
+### - 📈 AI Stock Market Signal Automation
 ![AI automation](/TejasGoyal_portfolio/images/AI%20Market%201.png) ![AI automation](/TejasGoyal_portfolio/images/AI%20Market%202.png)
 An AI-powered automation workflow for generating real-time stock trading signals.
 
