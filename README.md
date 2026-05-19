@@ -81,7 +81,7 @@ Currently focused on building scalable AI products, agentic workflows, and autom
 
 ## 🚀 Featured Projects
 
-![RAG Project](/images/RAG%201.png) ![RAG Project](/images/RAG%202.png)
+![RAG Project](/TejasGoyal_portfolio/images/RAG%201.png) ![RAG Project](/TejasGoyal_portfolio/images/RAG%202.png)
 ### 📄 RAG-Based PDF Chatbot
 An intelligent chatbot that allows users to interact with PDF documents using natural language.
 
@@ -96,7 +96,7 @@ Python • LangChain • ChromaDB • Cohere • Streamlit
 
 ---
 
-![AI automation](/images/AI%20Market%201.png) ![AI automation](/images/AI%20Market%202.png)
+![AI automation](/TejasGoyal_portfolio/images/AI%20Market%201.png) ![AI automation](/TejasGoyal_portfolio/images/AI%20Market%202.png)
 ### 📈 AI Stock Market Signal Automation
 An AI-powered automation workflow for generating real-time stock trading signals.
 
@@ -121,11 +121,11 @@ n8n • REST APIs • Workflow Automation • Frontend Integration
 
 ## 📜 Certifications
 
-![Certificate1](/images/IBM%20certificate.png)
+![Certificate1](/TejasGoyal_portfolio/images/IBM%20certificate.png)
 
 - IBM SkillsBuild — Generative AI
 
-![Certificate2](/images/oneroadmap%20certificate.png)
+![Certificate2](/TejasGoyal_portfolio/images/oneroadmap%20certificate.png)
 
 - OneRoadmap — AI Engineer Certificate
 
