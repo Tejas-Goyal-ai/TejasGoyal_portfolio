@@ -1,6 +1,6 @@
 # Hi there, I'm Tejas Goyal 👋
 
-### Generative AI Developer | AI Automation Builder | Full Stack Developer
+### Generative AI Developer | AI Automation Builder 
 
 I build practical AI applications that solve real-world problems using Generative AI, Retrieval-Augmented Generation (RAG), and intelligent automation workflows.
 
@@ -124,13 +124,6 @@ n8n • REST APIs • Workflow Automation • Frontend Integration
 
 ---
 
-## 📊 GitHub Stats
-
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasgoyal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasgoyal&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
@@ -140,14 +133,5 @@ n8n • REST APIs • Workflow Automation • Frontend Integration
 
 ---
 
-## 🎯 Current Focus
-
-Currently building:
-- Advanced GenAI applications
-- AI agents and agentic workflows
-- Workflow automation systems
-- AI products that solve practical business problems
-
----
 
 ⭐ If you like my work, feel free to connect or collaborate.
