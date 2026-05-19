@@ -81,8 +81,9 @@ Currently focused on building scalable AI products, agentic workflows, and autom
 
 ## 🚀 Featured Projects
 
-![RAG Project](/TejasGoyal_portfolio/images/RAG%201.png) ![RAG Project](/TejasGoyal_portfolio/images/RAG%202.png)
 ### 📄 RAG-Based PDF Chatbot
+![RAG Project](/TejasGoyal_portfolio/images/RAG%201.png) ![RAG Project](/TejasGoyal_portfolio/images/RAG%202.png)
+
 An intelligent chatbot that allows users to interact with PDF documents using natural language.
 
 **Features:**
@@ -92,12 +93,12 @@ An intelligent chatbot that allows users to interact with PDF documents using na
 - ChatGPT-style conversational interface
 
 **Tech Used:**
-Python • LangChain • ChromaDB • Cohere • Streamlit
+• Python • LangChain • ChromaDB • Cohere • Streamlit
 
 ---
 
-![AI automation](/TejasGoyal_portfolio/images/AI%20Market%201.png) ![AI automation](/TejasGoyal_portfolio/images/AI%20Market%202.png)
 ### 📈 AI Stock Market Signal Automation
+![AI automation](/TejasGoyal_portfolio/images/AI%20Market%201.png) ![AI automation](/TejasGoyal_portfolio/images/AI%20Market%202.png)
 An AI-powered automation workflow for generating real-time stock trading signals.
 
 **Features:**
@@ -107,7 +108,7 @@ An AI-powered automation workflow for generating real-time stock trading signals
 - Automated signal generation
 
 **Tech Used:**
-n8n • REST APIs • Workflow Automation • Frontend Integration
+• n8n • REST APIs • Workflow Automation • Frontend Integration
 
 ---
 
@@ -135,8 +136,8 @@ n8n • REST APIs • Workflow Automation • Frontend Integration
 ## 🌐 Connect With Me
 
 📧 **Email:** tejasgoyal003@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/tejas-goyal  
-💻 **GitHub:** https://github.com/tejasgoyal
+💼 **LinkedIn:** [linkedin.com/tejas-goyal](https://www.linkedin.com/in/tejas-goyal-ai/)
+💻 **GitHub:** [github.com/tejasgoyal](https://github.com/Tejas-Goyal-ai)
 
 ---
 
