@@ -137,7 +137,6 @@ An AI-powered automation workflow for generating real-time stock trading signals
 
 📧 **Email:** tejasgoyal003@gmail.com  
 💼 **LinkedIn:** [linkedin.com/tejas-goyal](https://www.linkedin.com/in/tejas-goyal-ai/)   
-
 💻 **GitHub:** [github.com/tejasgoyal](https://github.com/Tejas-Goyal-ai)
 
 ---
