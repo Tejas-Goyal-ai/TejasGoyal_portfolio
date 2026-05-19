@@ -119,7 +119,9 @@ n8n • REST APIs • Workflow Automation • Frontend Integration
 
 ## 📜 Certifications
 
+![Certificate1](/images/IBM certificate.png)
 - IBM SkillsBuild — Generative AI
+![Certificate2](/images/oneroadmap certificate.png)
 - OneRoadmap — AI Engineer Certificate
 
 ---
